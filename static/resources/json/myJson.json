@@ -1,0 +1,21 @@
+[{
+  "id": "0",
+  "version": "0.0.1",
+  "message": "hello"
+},
+  {
+    "id": "1",
+    "version": "0.0.1",
+    "message": "world"
+  },
+  {
+    "id": "2",
+    "version": "0.0.1",
+    "message": "你好"
+  },
+  {
+    "id": "3",
+    "version": "0.0.1",
+    "message": "世界"
+  }
+]
