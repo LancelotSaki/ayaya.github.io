@@ -1,2 +1,0 @@
-webpackJsonp([16],{"5/rT":function(e,t,i){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("p",[this._v(this._s(this.profileName))]),this._v(" "),t("p",[this._v(this._s(this.$store.state.tabType))])])},staticRenderFns:[]};var s=i("Z0/y")({name:"profile",data:function(){return{profileName:"个人中心"}}},n,!1,function(e){i("dH4u")},null,null);t.default=s.exports},dH4u:function(e,t){}});
-//# sourceMappingURL=16.40b8384c6ff106c93c47.js.map
